@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:55:16Z
+  collectedAt: 2026-09-09T20:36:09Z
 timeline:
   created: 2026-03-31
   lastCommit: 2026-07-22
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 948
   watcher: 2
-  fork: 1220
+  fork: 1221
   release: 0
   contributor: 5
   pullRequest: 4
@@ -88,7 +88,7 @@ total:
   commit: 34
 ---
 path: /home/runner/.x-repo/github.com/LING71671/Open-ClaudeCode
-collectedAt: 2026-09-09T05:55:27Z
+collectedAt: 2026-09-09T20:36:16Z
 loc:
   TypeScript:
     code: 287378
